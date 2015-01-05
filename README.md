@@ -1,1 +1,1 @@
-Fourth Year Uni DJ Kinect Project using openFrameworks
+Masters project using Kinect sensor and openFrameworks.
